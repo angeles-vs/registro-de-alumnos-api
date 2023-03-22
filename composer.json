@@ -1,0 +1,24 @@
+{
+    "name": "mikecao/flight",
+    "description": "API de registro de alumnos",
+    "homepage": "http://flightphp.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angeles Viña",
+            "email": "angelessevilla18@gmail.com",
+            "homepage": "https://github.com/angelessevilla/",
+            "role": "Original Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0|^8.1",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "files": [ "flight/autoload.php", "flight/Flight.php" ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
