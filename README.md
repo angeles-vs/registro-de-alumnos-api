@@ -28,4 +28,4 @@ Estos son los endpoint disponibles para peticiones:
 # Autora 🖌️
 
 Angeles Viña 
-https://github.com/angelessevilla
+https://github.com/angeles-vs
